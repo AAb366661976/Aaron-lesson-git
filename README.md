@@ -1,4 +1,4 @@
 #Readme
 following is the descripition of the code
-make some revison
+make some evison
 ctrl +S
